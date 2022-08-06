@@ -1,6 +1,6 @@
 # import modules
 import uvicorn
-from app.NigeriaSolarEstimator import app
+from app.RegionalSolarEstimator import app
 
 # main driver app
 if __name__ == '__main__':
